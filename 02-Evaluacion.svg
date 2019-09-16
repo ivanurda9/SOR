@@ -14,7 +14,7 @@
       <rect x="40" width="1070" height="571" y="-93" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g id="y.node.0">
-      <g fill="rgb(153,153,153)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(153,153,153)">
+      <g fill="rgb(204,153,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(204,153,255)">
         <path d="M861.8281 89.6063 L1079.5176 89.6063 L1079.5176 104.6063 L1094.5176 104.6063 L1094.5176 144.9242 L861.8281 144.9242 Z" stroke="none"/>
       </g>
       <g fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="white">
@@ -25,14 +25,14 @@
         <path fill="none" d="M1079.5176 89.6063 L1079.5176 104.6063 L1094.5176 104.6063 Z" fill-rule="evenodd"/>
       </g>
       <g>
-        <g stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" fill="white" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-40,93)" stroke-linecap="butt">
           <text x="889.1484" xml:space="preserve" y="114.4352" stroke="none">Las recuperaciones se hacen </text>
           <text x="918.1904" xml:space="preserve" y="128.4039" stroke="none">sobre RA completos</text>
         </g>
       </g>
     </g>
     <g id="y.node.1">
-      <a xlink:href="002-RA.html">
+      <a target="_blank" xlink:type="simple" xlink:href="002-RA.html" xlink:show="new">
         <g fill="rgb(255,153,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(255,153,0)">
           <ellipse rx="28.0664" ry="27.4794" cx="552.75" cy="162.5" stroke="none"/>
         </g>
@@ -63,7 +63,7 @@
       <g fill="rgb(179,166,145)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93) translate(5,5)" stroke="rgb(179,166,145)">
         <rect x="479.6123" y="-18.0719" width="146.2754" rx="4" ry="4" height="62.5" stroke="none"/>
       </g>
-      <g fill="rgb(102,102,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(102,102,102)">
+      <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(51,51,51)">
         <rect x="479.6123" y="-18.0719" width="146.2754" rx="4" ry="4" height="62.5" stroke="none"/>
       </g>
       <g>
@@ -116,7 +116,7 @@
       </g>
     </g>
     <g id="y.node.7">
-      <g fill="rgb(153,153,153)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(153,153,153)">
+      <g fill="rgb(204,153,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(204,153,255)">
         <path d="M780.208 50.9715 L971.4203 50.9715 L971.4203 65.9715 L986.4203 65.9715 L986.4203 96.3366 L780.208 96.3366 Z" stroke="none"/>
         <path fill="white" d="M971.4203 50.9715 L971.4203 65.9715 L986.4203 65.9715 Z" fill-rule="evenodd" stroke="none"/>
       </g>
@@ -125,14 +125,14 @@
         <path fill="none" d="M971.4203 50.9715 L971.4203 65.9715 L986.4203 65.9715 Z" fill-rule="evenodd"/>
       </g>
       <g>
-        <g stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" fill="white" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-40,93)" stroke-linecap="butt">
           <text x="797.9284" xml:space="preserve" y="70.8239" stroke="none">La nota se obtiene sumando</text>
           <text x="812.8054" xml:space="preserve" y="84.7927" stroke="none">todos los CE aprobados</text>
         </g>
       </g>
     </g>
     <g id="y.node.8">
-      <g fill="rgb(153,153,153)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(153,153,153)">
+      <g fill="rgb(204,153,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(204,153,255)">
         <path d="M73.082 -18.0719 L310.168 -18.0719 L310.168 -3.0719 L325.168 -3.0719 L325.168 49.3071 L73.082 49.3071 Z" stroke="none"/>
         <path fill="white" d="M310.168 -18.0719 L310.168 -3.0719 L325.168 -3.0719 Z" fill-rule="evenodd" stroke="none"/>
       </g>
@@ -141,7 +141,7 @@
         <path fill="none" d="M310.168 -18.0719 L310.168 -3.0719 L325.168 -3.0719 Z" fill-rule="evenodd"/>
       </g>
       <g>
-        <g stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" fill="white" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-40,93)" stroke-linecap="butt">
           <text x="95.1328" xml:space="preserve" y="-1.1812" stroke="none">Las evaluaciones parciales indican</text>
           <text x="96.2373" xml:space="preserve" y="12.7875" stroke="none">el progreso del alumno en función</text>
           <text x="103.1895" xml:space="preserve" y="26.7563" stroke="none">de los CE y RA impartidos hasta</text>
@@ -150,7 +150,7 @@
       </g>
     </g>
     <g id="y.node.9">
-      <g fill="rgb(153,153,153)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(153,153,153)">
+      <g fill="rgb(204,153,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(204,153,255)">
         <path d="M673.4785 -77.1438 L891.168 -77.1438 L891.168 -62.1438 L906.168 -62.1438 L906.168 -31.7787 L673.4785 -31.7787 Z" stroke="none"/>
         <path fill="white" d="M891.168 -77.1438 L891.168 -62.1438 L906.168 -62.1438 Z" fill-rule="evenodd" stroke="none"/>
       </g>
@@ -159,7 +159,7 @@
         <path fill="none" d="M891.168 -77.1438 L891.168 -62.1438 L906.168 -62.1438 Z" fill-rule="evenodd"/>
       </g>
       <g>
-        <g stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" fill="white" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-40,93)" stroke-linecap="butt">
           <text x="697.5791" xml:space="preserve" y="-57.2913" stroke="none">Se deben superar todos los RA</text>
           <text x="680.4785" xml:space="preserve" y="-43.3226" stroke="none">para considerar aprobado el modulo</text>
         </g>
@@ -192,18 +192,19 @@
       </g>
     </g>
     <g id="y.node.12">
-      <g fill="rgb(153,153,153)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(153,153,153)">
-        <path d="M651.957 392.7124 L869.6465 392.7124 L869.6465 407.7124 L884.6465 407.7124 L884.6465 438.0775 L651.957 438.0775 Z" stroke="none"/>
-        <path fill="white" d="M869.6465 392.7124 L869.6465 407.7124 L884.6465 407.7124 Z" fill-rule="evenodd" stroke="none"/>
+      <g fill="rgb(204,153,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke="rgb(204,153,255)">
+        <path d="M651.957 392.7124 L900.6465 392.7124 L900.6465 407.7124 L915.6465 407.7124 L915.6465 448.0302 L651.957 448.0302 Z" stroke="none"/>
+        <path fill="white" d="M900.6465 392.7124 L900.6465 407.7124 L915.6465 407.7124 Z" fill-rule="evenodd" stroke="none"/>
       </g>
       <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-40,93)" stroke-linecap="butt">
-        <path fill="none" d="M651.957 392.7124 L869.6465 392.7124 L869.6465 407.7124 L884.6465 407.7124 L884.6465 438.0775 L651.957 438.0775 Z"/>
-        <path fill="none" d="M869.6465 392.7124 L869.6465 407.7124 L884.6465 407.7124 Z" fill-rule="evenodd"/>
+        <path fill="none" d="M651.957 392.7124 L900.6465 392.7124 L900.6465 407.7124 L915.6465 407.7124 L915.6465 448.0302 L651.957 448.0302 Z"/>
+        <path fill="none" d="M900.6465 392.7124 L900.6465 407.7124 L915.6465 407.7124 Z" fill-rule="evenodd"/>
       </g>
       <g>
-        <g stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" fill="white" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-          <text x="666.5625" xml:space="preserve" y="412.5648" stroke="none">Son examenes, pruebas practicas</text>
-          <text x="652.3389" xml:space="preserve" y="426.5336" stroke="none">en clase, proyectos, exposiciones, etc.</text>
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-40,93)" stroke-linecap="butt">
+          <text x="682.0625" xml:space="preserve" y="410.5568" stroke="none">Son examenes, pruebas practicas</text>
+          <text x="667.8389" xml:space="preserve" y="424.5256" stroke="none">en clase, proyectos, exposiciones, etc.</text>
+          <text x="686.4951" xml:space="preserve" y="438.4943" stroke="none">que agrupan varios CE de un RA</text>
         </g>
       </g>
     </g>
@@ -310,22 +311,22 @@
         </g>
       </g>
     </g>
-    <g id="y.edge.10">
+    <g id="y.edge.12">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" fill="rgb(170,170,170)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(170,170,170)" stroke-width="3" stroke-miterlimit="1.45">
-        <path fill="none" d="M552.75 407.1438 L552.75 345.8897"/>
-        <path d="M552.75 335.8897 L546.5 350.8897 L552.75 347.1397 L559 350.8897 Z" stroke="none"/>
+        <path fill="none" d="M552.75 335.8897 L552.75 397.1438"/>
+        <path d="M552.75 407.1438 L559 392.1438 L552.75 395.8938 L546.5 392.1438 Z" stroke="none"/>
       </g>
       <g>
         <g font-size="14px" stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" text-rendering="geometricPrecision" font-family="'DejaVu Serif'" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="483.8008" xml:space="preserve" y="375.6982" stroke="none">evaluan</text>
-          <text x="496.1602" xml:space="preserve" y="391.9951" stroke="none">varios</text>
+          <text x="445.9814" xml:space="preserve" y="364.1982" stroke="none">son evaluados</text>
+          <text x="479.7441" xml:space="preserve" y="380.4951" stroke="none">mediante</text>
         </g>
       </g>
     </g>
-    <g id="y.edge.12"/>
-    <g id="y.edge.11">
+    <g id="y.edge.11"/>
+    <g id="y.edge.10">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-40,93)" fill="rgb(170,170,170)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke-dasharray="6,2" stroke="rgb(170,170,170)" stroke-miterlimit="1.45">
-        <path fill="none" d="M651.9547 415.3843 L638.0391 409.9527 L624.5359 406.7585 L611.4724 405.8123 L598.8486 407.1143 L586.6644 410.6643 L574.9199 416.4624 L574.0588 417.0753"/>
+        <path fill="none" d="M651.9588 420.3594 L638.4366 414.3067 L625.2148 410.4903 L612.32 408.922 L599.7521 409.6018 L587.5112 412.5298 L575.5972 417.706 L574.8956 418.1555"/>
       </g>
       <g/>
     </g>
