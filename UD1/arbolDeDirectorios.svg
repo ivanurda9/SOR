@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1594" height="1811" viewBox="0 0 1594 1811">
+<style type="text/css"><![CDATA[
+text { font:12px Dialog; }
+]]></style>
+<rect x="-1860" y="-1023" width="5128" height="5562" style="fill:rgb(255,255,255);stroke:none" />
+<clipPath id="clip1"><path d="M15,15 L1579,15 L1579,1796 L15,1796 Z M746,18 C741.5820313,18 738,21.5820313 738,26 L738,79 C738,83.4179688 741.5820313,87 746,87 L1034,87 C1038.4179688,87 1042,83.4179688 1042,79 L1042,26 C1042,21.5820313 1038.4179688,18 1034,18 Z M746,18 Z M746,18" /></clipPath>
+<path d="M890,97 L890,155.75 C890,160.1640625 893.5859375,163.75 898,163.75 L911,163.75" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip1)" />
+<clipPath id="clip2"><path d="M15,15 L1579,15 L1579,1796 L15,1796 Z M746,18 C741.5820313,18 738,21.5820313 738,26 L738,79 C738,83.4179688 741.5820313,87 746,87 L1034,87 C1038.4179688,87 1042,83.4179688 1042,79 L1042,26 C1042,21.5820313 1038.4179688,18 1034,18 Z M746,18 Z M746,18" /></clipPath>
+<path d="M890,97 L890,239.6757813 C890,244.09375 886.4140625,247.6757813 882,247.6757813 L868,247.6757813" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip2)" />
+<clipPath id="clip3"><path d="M14,14 L1580,14 L1580,1797 L14,1797 L14,14 Z" /></clipPath>
+<path d="M890,87 L890,97" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip3)" />
+<clipPath id="clip4"><path d="M734,14 L1047,14 L1047,92 L734,92 L734,14 Z" /></clipPath>
+<path d="M746,18 C741.5820313,18 738,21.5820313 738,26 L738,79 C738,83.4179688 741.5820313,87 746,87 L1034,87 C1038.4179688,87 1042,83.4179688 1042,79 L1042,26 C1042,21.5820313 1038.4179688,18 1034,18 Z M746,18" style="fill:rgb(220,230,242);stroke:none" clip-path="url(#clip4)" />
+<clipPath id="clip5"><path d="M734,14 L1047,14 L1047,92 L734,92 L734,14 Z" /></clipPath>
+<path d="M746,18 C741.5820313,18 738,21.5820313 738,26 L738,79 C738,83.4179688 741.5820313,87 746,87 L1034,87 C1038.4179688,87 1042,83.4179688 1042,79 L1042,26 C1042,21.5820313 1038.4179688,18 1034,18 Z M746,18" style="fill:none;stroke:rgb(85,142,213);stroke-width:5" clip-path="url(#clip5)" />
+<text x="773" y="57" style="font:18px Open Sans">Arbol de directorios</text>
+<clipPath id="clip6"><path d="M910,142 L1579,142 L1579,738 L910,738 Z M916,143 C913.2382813,143 911,145.2382813 911,148 L911,179 C911,181.7617188 913.2382813,184 916,184 L1006,184 C1008.7617188,184 1011,181.7617188 1011,179 L1011,148 C1011,145.2382813 1008.7617188,143 1006,143 Z M916,143 Z M916,143" /></clipPath>
+<path d="M961,197 L961,230 C961,232.2070313 962.7929688,234 965,234 L971,234" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip6)" />
+<clipPath id="clip7"><path d="M910,142 L1579,142 L1579,738 L910,738 Z M916,143 C913.2382813,143 911,145.2382813 911,148 L911,179 C911,181.7617188 913.2382813,184 916,184 L1006,184 C1008.7617188,184 1011,181.7617188 1011,179 L1011,148 C1011,145.2382813 1008.7617188,143 1006,143 Z M916,143 Z M916,143" /></clipPath>
+<path d="M961,197 L961,344 C961,346.2070313 962.7929688,348 965,348 L971,348" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip7)" />
+<clipPath id="clip8"><path d="M910,142 L1579,142 L1579,738 L910,738 Z M916,143 C913.2382813,143 911,145.2382813 911,148 L911,179 C911,181.7617188 913.2382813,184 916,184 L1006,184 C1008.7617188,184 1011,181.7617188 1011,179 L1011,148 C1011,145.2382813 1008.7617188,143 1006,143 Z M916,143 Z M916,143" /></clipPath>
+<path d="M961,197 L961,440 C961,442.2070313 962.7929688,444 965,444 L971,444" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip8)" />
+<clipPath id="clip9"><path d="M910,142 L1579,142 L1579,738 L910,738 Z M916,143 C913.2382813,143 911,145.2382813 911,148 L911,179 C911,181.7617188 913.2382813,184 916,184 L1006,184 C1008.7617188,184 1011,181.7617188 1011,179 L1011,148 C1011,145.2382813 1008.7617188,143 1006,143 Z M916,143 Z M916,143" /></clipPath>
+<path d="M961,197 L961,536 C961,538.2070313 962.7929688,540 965,540 L971,540" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip9)" />
+<clipPath id="clip10"><path d="M910,142 L1579,142 L1579,738 L910,738 Z M916,143 C913.2382813,143 911,145.2382813 911,148 L911,179 C911,181.7617188 913.2382813,184 916,184 L1006,184 C1008.7617188,184 1011,181.7617188 1011,179 L1011,148 C1011,145.2382813 1008.7617188,143 1006,143 Z M916,143 Z M916,143" /></clipPath>
+<path d="M961,197 L961,686 C961,688.2070313 962.7929688,690 965,690 L971,690" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip10)" />
+<clipPath id="clip11"><path d="M909,141 L1580,141 L1580,739 L909,739 L909,141 Z" /></clipPath>
+<path d="M961,184 L961,197" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip11)" />
+<clipPath id="clip12"><path d="M909,141 L1014,141 L1014,187 L909,187 L909,141 Z" /></clipPath>
+<path d="M916,143 C913.2382813,143 911,145.2382813 911,148 L911,179 C911,181.7617188 913.2382813,184 916,184 L1006,184 C1008.7617188,184 1011,181.7617188 1011,179 L1011,148 C1011,145.2382813 1008.7617188,143 1006,143 Z M916,143" style="fill:rgb(220,230,242);stroke:none" clip-path="url(#clip12)" />
+<clipPath id="clip13"><path d="M909,141 L1014,141 L1014,187 L909,187 L909,141 Z" /></clipPath>
+<path d="M916,143 C913.2382813,143 911,145.2382813 911,148 L911,179 C911,181.7617188 913.2382813,184 916,184 L1006,184 C1008.7617188,184 1011,181.7617188 1011,179 L1011,148 C1011,145.2382813 1008.7617188,143 1006,143 Z M916,143" style="fill:none;stroke:rgb(85,142,213);stroke-width:2" clip-path="url(#clip13)" />
+<text x="925" y="166" style="font:13px Open Sans">Windows</text>
+<clipPath id="clip14"><path d="M969,205 L1579,205 L1579,318 L969,318 Z M971,207 L971,233 L1125,233 L1125,207 Z M971,207 Z M971,207" /></clipPath>
+<path d="M1048,246 L1048,313 C1048,315.2070313 1049.7929688,317 1052,317 L1057,317" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip14)" />
+<clipPath id="clip15"><path d="M968,204 L1580,204 L1580,319 L968,319 L968,204 Z" /></clipPath>
+<path d="M1048,233 L1048,246" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip15)" />
+<clipPath id="clip16"><path d="M968,204 L1129,204 L1129,237 L968,237 L968,204 Z" /></clipPath>
+<path d="M971,234 L1125,234 Z M971,234" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip16)" />
+<text x="982" y="222" style="font:10px Open Sans">Archivos de programa</text>
+<clipPath id="clip17"><path d="M1055,254 L1580,254 L1580,319 L1055,319 L1055,254 Z" /></clipPath>
+<path d="M1057,256 L1057,316 L1577,316 L1577,256 Z M1057,256" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip17)" />
+<clipPath id="clip18"><path d="M1055,254 L1580,254 L1580,319 L1055,319 L1055,254 Z" /></clipPath>
+<path d="M1057,317 L1577,317 Z M1057,317" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip18)" />
+<text x="1067" y="270" style="font:10px Open Sans">: es donde están instalados los programas. Si el sistema operativo es de 32 bits, aquí </text>
+<text x="1067" y="288" style="font:10px Open Sans">se almacenan todas las aplicaciones. En los sistemas de 64 bits, solo contiene las </text>
+<text x="1067" y="306" style="font:10px Open Sans">aplicaciones nativas para esta arquitectura.</text>
+<clipPath id="clip19"><path d="M969,319 L1573,319 L1573,414 L969,414 Z M971,321 L971,347 L1157,347 L1157,321 Z M971,321 Z M971,321" /></clipPath>
+<path d="M1064,360 L1064,409 C1064,411.2070313 1065.7929688,413 1068,413 L1073,413" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip19)" />
+<clipPath id="clip20"><path d="M968,318 L1574,318 L1574,415 L968,415 L968,318 Z" /></clipPath>
+<path d="M1064,347 L1064,360" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip20)" />
+<clipPath id="clip21"><path d="M968,318 L1161,318 L1161,351 L968,351 L968,318 Z" /></clipPath>
+<path d="M971,348 L1157,348 Z M971,348" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip21)" />
+<text x="982" y="336" style="font:10px Open Sans">Archivos de programa (x86)</text>
+<clipPath id="clip22"><path d="M1071,368 L1574,368 L1574,415 L1071,415 L1071,368 Z" /></clipPath>
+<path d="M1073,370 L1073,412 L1571,412 L1571,370 Z M1073,370" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip22)" />
+<clipPath id="clip23"><path d="M1071,368 L1574,368 L1574,415 L1071,415 L1071,368 Z" /></clipPath>
+<path d="M1073,413 L1571,413 Z M1073,413" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip23)" />
+<text x="1083" y="384" style="font:10px Open Sans">en los sistemas de 64 bits, es donde se guardan todas las aplicaciones instaladas </text>
+<text x="1083" y="402" style="font:10px Open Sans">que no sean nativas de esta arquitectura (normalmente, las de 32 bits).</text>
+<clipPath id="clip24"><path d="M969,415 L1576,415 L1576,510 L969,510 Z M971,417 L971,443 L1232,443 L1232,417 Z M971,417 Z M971,417" /></clipPath>
+<path d="M1101.6289063,456 L1101.6289063,505 C1101.6289063,507.2070313 1103.421875,509 1105.6289063,509 L1111,509" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip24)" />
+<clipPath id="clip25"><path d="M968,414 L1577,414 L1577,511 L968,511 L968,414 Z" /></clipPath>
+<path d="M1101.5664063,443 L1101.6289063,456" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip25)" />
+<clipPath id="clip26"><path d="M968,414 L1236,414 L1236,447 L968,447 L968,414 Z" /></clipPath>
+<path d="M971,444 L1232,444 Z M971,444" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip26)" />
+<text x="982" y="432" style="font:10px Open Sans">PerfLogs (del inglés, Performance Logs): </text>
+<clipPath id="clip27"><path d="M1109,464 L1577,464 L1577,511 L1109,511 L1109,464 Z" /></clipPath>
+<path d="M1111,466 L1111,508 L1574,508 L1574,466 Z M1111,466" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip27)" />
+<clipPath id="clip28"><path d="M1109,464 L1577,464 L1577,511 L1109,511 L1109,464 Z" /></clipPath>
+<path d="M1111,509 L1574,509 Z M1111,509" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip28)" />
+<text x="1121" y="480" style="font:10px Open Sans">es la carpeta donde almacena Windows los registros de seguimiento (logs) </text>
+<text x="1121" y="498" style="font:10px Open Sans">relacionados con la confiabilidad y el rendimiento del sistema.</text>
+<clipPath id="clip29"><path d="M969,511 L1537,511 L1537,660 L969,660 Z M971,513 L971,539 L1046,539 L1046,513 Z M971,513 Z M971,513" /></clipPath>
+<path d="M1008.6289063,552 L1008.6289063,655 C1008.6289063,657.2070313 1010.421875,659 1012.6289063,659 L1018,659" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip29)" />
+<clipPath id="clip30"><path d="M968,510 L1538,510 L1538,661 L968,661 L968,510 Z" /></clipPath>
+<path d="M1008.5664063,539 L1008.6289063,552" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip30)" />
+<clipPath id="clip31"><path d="M968,510 L1050,510 L1050,543 L968,543 L968,510 Z" /></clipPath>
+<path d="M971,540 L1046,540 Z M971,540" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip31)" />
+<text x="982" y="528" style="font:10px Open Sans">Usuarios</text>
+<clipPath id="clip32"><path d="M1016,560 L1538,560 L1538,661 L1016,661 L1016,560 Z" /></clipPath>
+<path d="M1018,562 L1018,658 L1535,658 L1535,562 Z M1018,562" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip32)" />
+<clipPath id="clip33"><path d="M1016,560 L1538,560 L1538,661 L1016,661 L1016,560 Z" /></clipPath>
+<path d="M1018,659 L1535,659 Z M1018,659" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip33)" />
+<text x="1028" y="576" style="font:10px Open Sans">En su interior tenemos una carpeta llamada Acceso público, que será accesible para </text>
+<text x="1028" y="594" style="font:10px Open Sans">todos los usuarios del sistema, y que podrán utilizarla para intercambiar </text>
+<text x="1028" y="612" style="font:10px Open Sans">información entre ellos. Además, encontraremos una carpeta para cada usuario del </text>
+<text x="1028" y="630" style="font:10px Open Sans">sistema. En su interior se encuentra toda la información individual del usuario en </text>
+<text x="1028" y="648" style="font:10px Open Sans">cuestión. </text>
+<clipPath id="clip34"><path d="M969,661 L1512,661 L1512,738 L969,738 Z M971,663 L971,689 L1049,689 L1049,663 Z M971,663 Z M971,663" /></clipPath>
+<path d="M1010,702 L1010,733 C1010,735.2070313 1011.7929688,737 1014,737 L1019,737" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip34)" />
+<clipPath id="clip35"><path d="M968,660 L1513,660 L1513,739 L968,739 L968,660 Z" /></clipPath>
+<path d="M1010,689 L1010,702" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip35)" />
+<clipPath id="clip36"><path d="M968,660 L1053,660 L1053,693 L968,693 L968,660 Z" /></clipPath>
+<path d="M971,690 L1049,690 Z M971,690" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip36)" />
+<text x="982" y="678" style="font:10px Open Sans">Windows</text>
+<clipPath id="clip37"><path d="M1017,710 L1513,710 L1513,739 L1017,739 L1017,710 Z" /></clipPath>
+<path d="M1019,712 L1019,736 L1510,736 L1510,712 Z M1019,712" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip37)" />
+<clipPath id="clip38"><path d="M1017,710 L1513,710 L1513,739 L1017,739 L1017,710 Z" /></clipPath>
+<path d="M1019,737 L1510,737 Z M1019,737" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip38)" />
+<text x="1029" y="726" style="font:10px Open Sans"> contiene todos los archivos relacionados con el sistema operativo y los drivers.</text>
+<clipPath id="clip39"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,314 C832.6679688,316.2070313 830.875,318 828.6679688,318 L822,318" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip39)" />
+<clipPath id="clip40"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,392 C832.6679688,394.2070313 830.875,396 828.6679688,396 L822,396" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip40)" />
+<clipPath id="clip41"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,488 C832.6679688,490.2070313 830.875,492 828.6679688,492 L822,492" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip41)" />
+<clipPath id="clip42"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,566 C832.6679688,568.2070313 830.875,570 828.6679688,570 L822,570" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip42)" />
+<clipPath id="clip43"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,644 C832.6679688,646.2070313 830.875,648 828.6679688,648 L822,648" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip43)" />
+<clipPath id="clip44"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,740 C832.6679688,742.2070313 830.875,744 828.6679688,744 L822,744" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip44)" />
+<clipPath id="clip45"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,836 C832.6679688,838.2070313 830.875,840 828.6679688,840 L822,840" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip45)" />
+<clipPath id="clip46"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,950 C832.6679688,952.2070313 830.875,954 828.6679688,954 L822,954" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip46)" />
+<clipPath id="clip47"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,1028 C832.6679688,1030.2070313 830.875,1032 828.6679688,1032 L822,1032" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip47)" />
+<clipPath id="clip48"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,1106 C832.6679688,1108.2070313 830.875,1110 828.6679688,1110 L822,1110" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip48)" />
+<clipPath id="clip49"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,1202 C832.6679688,1204.2070313 830.875,1206 828.6679688,1206 L822,1206" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip49)" />
+<clipPath id="clip50"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,1444 C832.6679688,1446.2070313 830.875,1448 828.6679688,1448 L822,1448" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip50)" />
+<clipPath id="clip51"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,1586 C832.6679688,1588.2070313 830.875,1590 828.6679688,1590 L822,1590" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip51)" />
+<clipPath id="clip52"><path d="M15,226 L870,226 L870,1796 L15,1796 Z M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227 Z M802,227" /></clipPath>
+<path d="M832.6679688,281 L832.6679688,1686 C832.6679688,1688.2070313 830.875,1690 828.6679688,1690 L822,1690" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip52)" />
+<clipPath id="clip53"><path d="M14,225 L871,225 L871,1797 L14,1797 L14,225 Z" /></clipPath>
+<path d="M832.6015625,268 L832.6679688,281" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip53)" />
+<clipPath id="clip54"><path d="M795,225 L871,225 L871,271 L795,271 L795,225 Z" /></clipPath>
+<path d="M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227" style="fill:rgb(220,230,242);stroke:none" clip-path="url(#clip54)" />
+<clipPath id="clip55"><path d="M795,225 L871,225 L871,271 L795,271 L795,225 Z" /></clipPath>
+<path d="M802,227 C799.2382813,227 797,229.2382813 797,232 L797,263 C797,265.7617188 799.2382813,268 802,268 L863,268 C865.7617188,268 868,265.7617188 868,263 L868,232 C868,229.2382813 865.7617188,227 863,227 Z M802,227" style="fill:none;stroke:rgb(85,142,213);stroke-width:2" clip-path="url(#clip55)" />
+<text x="812" y="250" style="font:13px Open Sans">Linux</text>
+<clipPath id="clip56"><path d="M447,289 L825,289 L825,366 L447,366 Z M780,291 L780,317 L822,317 L822,291 Z M780,291 Z M780,291" /></clipPath>
+<path d="M801,330 L801,361 C801,363.2070313 799.2070313,365 797,365 L791,365" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip56)" />
+<clipPath id="clip57"><path d="M446,288 L826,288 L826,367 L446,367 L446,288 Z" /></clipPath>
+<path d="M801,317 L801,330" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip57)" />
+<clipPath id="clip58"><path d="M777,288 L826,288 L826,321 L777,321 L777,288 Z" /></clipPath>
+<path d="M780,318 L822,318 Z M780,318" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip58)" />
+<text x="792" y="306" style="font:10px Open Sans">bin</text>
+<clipPath id="clip59"><path d="M446,338 L794,338 L794,367 L446,367 L446,338 Z" /></clipPath>
+<path d="M448,340 L448,364 L791,364 L791,340 Z M448,340" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip59)" />
+<clipPath id="clip60"><path d="M446,338 L794,338 L794,367 L446,367 L446,338 Z" /></clipPath>
+<path d="M448,365 L791,365 Z M448,365" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip60)" />
+<text x="459" y="354" style="font:10px Open Sans">Guarda los ejecutables fundamentales para el sistema.</text>
+<clipPath id="clip61"><path d="M293,367 L825,367 L825,462 L293,462 Z M770,369 L770,395 L822,395 L822,369 Z M770,369 Z M770,369" /></clipPath>
+<path d="M796,408 L796,457 C796,459.2070313 794.2070313,461 792,461 L786,461" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip61)" />
+<clipPath id="clip62"><path d="M292,366 L826,366 L826,463 L292,463 L292,366 Z" /></clipPath>
+<path d="M796,395 L796,408" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip62)" />
+<clipPath id="clip63"><path d="M767,366 L826,366 L826,399 L767,399 L767,366 Z" /></clipPath>
+<path d="M770,396 L822,396 Z M770,396" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip63)" />
+<text x="782" y="384" style="font:10px Open Sans">boot</text>
+<clipPath id="clip64"><path d="M292,416 L789,416 L789,463 L292,463 L292,416 Z" /></clipPath>
+<path d="M294,418 L294,460 L786,460 L786,418 Z M294,418" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip64)" />
+<clipPath id="clip65"><path d="M292,416 L789,416 L789,463 L292,463 L292,416 Z" /></clipPath>
+<path d="M294,461 L786,461 Z M294,461" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip65)" />
+<text x="305" y="432" style="font:10px Open Sans">Contiene los archivos necesarios para arrancar el sistema (incluye la imagen del </text>
+<text x="305" y="450" style="font:10px Open Sans">núcleo)</text>
+<clipPath id="clip66"><path d="M523,463 L825,463 L825,540 L523,540 Z M777,465 L777,491 L822,491 L822,465 Z M777,465 Z M777,465" /></clipPath>
+<path d="M799.6289063,504 L799.6289063,535 C799.6289063,537.2070313 797.8398438,539 795.6289063,539 L790,539" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip66)" />
+<clipPath id="clip67"><path d="M522,462 L826,462 L826,541 L522,541 L522,462 Z" /></clipPath>
+<path d="M799.5664063,491 L799.6289063,504" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip67)" />
+<clipPath id="clip68"><path d="M774,462 L826,462 L826,495 L774,495 L774,462 Z" /></clipPath>
+<path d="M777,492 L822,492 Z M777,492" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip68)" />
+<text x="789" y="480" style="font:10px Open Sans">dev</text>
+<clipPath id="clip69"><path d="M522,512 L793,512 L793,541 L522,541 L522,512 Z" /></clipPath>
+<path d="M524,514 L524,538 L790,538 L790,514 Z M524,514" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip69)" />
+<clipPath id="clip70"><path d="M522,512 L793,512 L793,541 L522,541 L522,512 Z" /></clipPath>
+<path d="M524,539 L790,539 Z M524,539" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip70)" />
+<text x="535" y="528" style="font:10px Open Sans">Incluye los controladores de dispositivos.</text>
+<clipPath id="clip71"><path d="M477,541 L825,541 L825,618 L477,618 Z M781,543 L781,569 L822,569 L822,543 Z M781,543 Z M781,543" /></clipPath>
+<path d="M801.6289063,582 L801.6289063,613 C801.6289063,615.2070313 799.8398438,617 797.6289063,617 L792,617" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip71)" />
+<clipPath id="clip72"><path d="M476,540 L826,540 L826,619 L476,619 L476,540 Z" /></clipPath>
+<path d="M801.5664063,569 L801.6289063,582" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip72)" />
+<clipPath id="clip73"><path d="M778,540 L826,540 L826,573 L778,573 L778,540 Z" /></clipPath>
+<path d="M781,570 L822,570 Z M781,570" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip73)" />
+<text x="793" y="558" style="font:10px Open Sans">etc</text>
+<clipPath id="clip74"><path d="M476,590 L795,590 L795,619 L476,619 L476,590 Z" /></clipPath>
+<path d="M478,592 L478,616 L792,616 L792,592 Z M478,592" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip74)" />
+<clipPath id="clip75"><path d="M476,590 L795,590 L795,619 L476,619 L476,590 Z" /></clipPath>
+<path d="M478,617 L792,617 Z M478,617" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip75)" />
+<text x="489" y="606" style="font:10px Open Sans">Guarda los archivos de configuración del sistema.</text>
+<clipPath id="clip76"><path d="M286,619 L825,619 L825,714 L286,714 Z M764,621 L764,647 L822,647 L822,621 Z M764,621 Z M764,621" /></clipPath>
+<path d="M793,660 L793,709 C793,711.2070313 791.2070313,713 789,713 L783,713" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip76)" />
+<clipPath id="clip77"><path d="M285,618 L826,618 L826,715 L285,715 L285,618 Z" /></clipPath>
+<path d="M793,647 L793,660" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip77)" />
+<clipPath id="clip78"><path d="M761,618 L826,618 L826,651 L761,651 L761,618 Z" /></clipPath>
+<path d="M764,648 L822,648 Z M764,648" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip78)" />
+<text x="776" y="636" style="font:10px Open Sans">home</text>
+<clipPath id="clip79"><path d="M285,668 L786,668 L786,715 L285,715 L285,668 Z" /></clipPath>
+<path d="M287,670 L287,712 L783,712 L783,670 Z M287,670" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip79)" />
+<clipPath id="clip80"><path d="M285,668 L786,668 L786,715 L285,715 L285,668 Z" /></clipPath>
+<path d="M287,713 L783,713 Z M287,713" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip80)" />
+<text x="298" y="684" style="font:10px Open Sans">Contiene un directorio por cada usuario del sistema. En su interior se encuentra </text>
+<text x="298" y="702" style="font:10px Open Sans">toda la información individual del usuario .</text>
+<clipPath id="clip81"><path d="M289,715 L825,715 L825,810 L289,810 Z M785,717 L785,743 L822,743 L822,717 Z M785,717 Z M785,717" /></clipPath>
+<path d="M803.6289063,756 L803.6289063,805 C803.6289063,807.2070313 801.8398438,809 799.6289063,809 L794,809" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip81)" />
+<clipPath id="clip82"><path d="M288,714 L826,714 L826,811 L288,811 L288,714 Z" /></clipPath>
+<path d="M803.5664063,743 L803.6289063,756" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip82)" />
+<clipPath id="clip83"><path d="M782,714 L826,714 L826,747 L782,747 L782,714 Z" /></clipPath>
+<path d="M785,744 L822,744 Z M785,744" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip83)" />
+<text x="797" y="732" style="font:10px Open Sans">lib</text>
+<clipPath id="clip84"><path d="M288,764 L797,764 L797,811 L288,811 L288,764 Z" /></clipPath>
+<path d="M290,766 L290,808 L794,808 L794,766 Z M290,766" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip84)" />
+<clipPath id="clip85"><path d="M288,764 L797,764 L797,811 L288,811 L288,764 Z" /></clipPath>
+<path d="M290,809 L794,809 Z M290,809" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip85)" />
+<text x="301" y="780" style="font:10px Open Sans">Contiene librerías de uso común para distintos programas (evitan la redundancia </text>
+<text x="301" y="798" style="font:10px Open Sans">de código).</text>
+<clipPath id="clip86"><path d="M270,811 L825,811 L825,924 L270,924 Z M762,813 L762,839 L822,839 L822,813 Z M762,813 Z M762,813" /></clipPath>
+<path d="M792,852 L792,919 C792,921.2070313 790.2070313,923 788,923 L782,923" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip86)" />
+<clipPath id="clip87"><path d="M269,810 L826,810 L826,925 L269,925 L269,810 Z" /></clipPath>
+<path d="M792,839 L792,852" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip87)" />
+<clipPath id="clip88"><path d="M759,810 L826,810 L826,843 L759,843 L759,810 Z" /></clipPath>
+<path d="M762,840 L822,840 Z M762,840" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip88)" />
+<text x="774" y="828" style="font:10px Open Sans">media</text>
+<clipPath id="clip89"><path d="M269,860 L785,860 L785,925 L269,925 L269,860 Z" /></clipPath>
+<path d="M271,862 L271,922 L782,922 L782,862 Z M271,862" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip89)" />
+<clipPath id="clip90"><path d="M269,860 L785,860 L785,925 L269,925 L269,860 Z" /></clipPath>
+<path d="M271,923 L782,923 Z M271,923" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip90)" />
+<text x="282" y="876" style="font:10px Open Sans">Contiene una subcarpeta por cada dispositivo externo que se haya montado en el </text>
+<text x="282" y="894" style="font:10px Open Sans">sistema. Dentro de esa subcarpeta encontraremos el árbol de directorios del </text>
+<text x="282" y="912" style="font:10px Open Sans">dispositivo correspondiente.</text>
+<clipPath id="clip91"><path d="M448,925 L825,925 L825,1002 L448,1002 Z M774,927 L774,953 L822,953 L822,927 Z M774,927 Z M774,927" /></clipPath>
+<path d="M798,966 L798,997 C798,999.2070313 796.2070313,1001 794,1001 L788,1001" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip91)" />
+<clipPath id="clip92"><path d="M447,924 L826,924 L826,1003 L447,1003 L447,924 Z" /></clipPath>
+<path d="M798,953 L798,966" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip92)" />
+<clipPath id="clip93"><path d="M771,924 L826,924 L826,957 L771,957 L771,924 Z" /></clipPath>
+<path d="M774,954 L822,954 Z M774,954" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip93)" />
+<text x="786" y="942" style="font:10px Open Sans">sbin</text>
+<clipPath id="clip94"><path d="M447,974 L791,974 L791,1003 L447,1003 L447,974 Z" /></clipPath>
+<path d="M449,976 L449,1000 L788,1000 L788,976 Z M449,976" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip94)" />
+<clipPath id="clip95"><path d="M447,974 L791,974 L791,1003 L447,1003 L447,974 Z" /></clipPath>
+<path d="M449,1001 L788,1001 Z M449,1001" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip95)" />
+<text x="460" y="990" style="font:10px Open Sans"> Incluye comandos específicos para la administración.</text>
+<clipPath id="clip96"><path d="M325,1003 L825,1003 L825,1080 L325,1080 Z M774,1005 L774,1031 L822,1031 L822,1005 Z M774,1005 Z M774,1005" /></clipPath>
+<path d="M798,1044 L798,1075 C798,1077.2070313 796.2070313,1079 794,1079 L788,1079" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip96)" />
+<clipPath id="clip97"><path d="M324,1002 L826,1002 L826,1081 L324,1081 L324,1002 Z" /></clipPath>
+<path d="M798,1031 L798,1044" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip97)" />
+<clipPath id="clip98"><path d="M771,1002 L826,1002 L826,1035 L771,1035 L771,1002 Z" /></clipPath>
+<path d="M774,1032 L822,1032 Z M774,1032" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip98)" />
+<text x="786" y="1020" style="font:10px Open Sans">tmp</text>
+<clipPath id="clip99"><path d="M324,1052 L791,1052 L791,1081 L324,1081 L324,1052 Z" /></clipPath>
+<path d="M326,1054 L326,1078 L788,1078 L788,1054 Z M326,1054" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip99)" />
+<clipPath id="clip100"><path d="M324,1052 L791,1052 L791,1081 L324,1081 L324,1052 Z" /></clipPath>
+<path d="M326,1079 L788,1079 Z M326,1079" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip100)" />
+<text x="337" y="1068" style="font:10px Open Sans">Lo utilizan los programas para guardar datos que luego serán desechados.</text>
+<clipPath id="clip101"><path d="M296,1081 L825,1081 L825,1176 L296,1176 Z M773,1083 L773,1109 L822,1109 L822,1083 Z M773,1083 Z M773,1083" /></clipPath>
+<path d="M797.6289063,1122 L797.6289063,1171 C797.6289063,1173.2070313 795.8398438,1175 793.6289063,1175 L788,1175" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip101)" />
+<clipPath id="clip102"><path d="M295,1080 L826,1080 L826,1177 L295,1177 L295,1080 Z" /></clipPath>
+<path d="M797.5664063,1109 L797.6289063,1122" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip102)" />
+<clipPath id="clip103"><path d="M770,1080 L826,1080 L826,1113 L770,1113 L770,1080 Z" /></clipPath>
+<path d="M773,1110 L822,1110 Z M773,1110" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip103)" />
+<text x="785" y="1098" style="font:10px Open Sans">root</text>
+<clipPath id="clip104"><path d="M295,1130 L791,1130 L791,1177 L295,1177 L295,1130 Z" /></clipPath>
+<path d="M297,1132 L297,1174 L788,1174 L788,1132 Z M297,1132" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip104)" />
+<clipPath id="clip105"><path d="M295,1130 L791,1130 L791,1177 L295,1177 L295,1130 Z" /></clipPath>
+<path d="M297,1175 L788,1175 Z M297,1175" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip105)" />
+<text x="308" y="1146" style="font:10px Open Sans">Es el directorio del usuario administrador, que se mantiene fuera de la carpeta /</text>
+<text x="308" y="1164" style="font:10px Open Sans">home para separarlo del resto de usuarios.</text>
+<clipPath id="clip106"><path d="M15,1177 L825,1177 L825,1418 L15,1418 Z M780,1179 L780,1205 L822,1205 L822,1179 Z M780,1179 Z M780,1179" /></clipPath>
+<path d="M801,1218 L801,1267 C801,1269.2070313 799.2070313,1271 797,1271 L791,1271" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip106)" />
+<clipPath id="clip107"><path d="M14,1176 L826,1176 L826,1419 L14,1419 L14,1176 Z" /></clipPath>
+<path d="M801,1205 L801,1218" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip107)" />
+<clipPath id="clip108"><path d="M777,1176 L826,1176 L826,1209 L777,1209 L777,1176 Z" /></clipPath>
+<path d="M780,1206 L822,1206 Z M780,1206" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip108)" />
+<text x="792" y="1194" style="font:10px Open Sans">usr</text>
+<clipPath id="clip109"><path d="M15,1227 L793,1227 L793,1418 L15,1418 Z M276,1228 L276,1270 L791,1270 L791,1228 Z M276,1228 Z M276,1228" /></clipPath>
+<path d="M533.671875,1283 C531.5234375,1305.6679688 528.296875,1317 524,1317" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip109)" />
+<clipPath id="clip110"><path d="M15,1227 L793,1227 L793,1418 L15,1418 Z M276,1228 L276,1270 L791,1270 L791,1228 Z M276,1228 Z M276,1228" /></clipPath>
+<path d="M533.671875,1283 C531.3007813,1338.3320313 527.7421875,1366 523,1366" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip110)" />
+<clipPath id="clip111"><path d="M15,1227 L793,1227 L793,1418 L15,1418 Z M276,1228 L276,1270 L791,1270 L791,1228 Z M276,1228 Z M276,1228" /></clipPath>
+<path d="M533.671875,1283 C531.3007813,1371.6679688 527.7421875,1416 523,1416" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip111)" />
+<clipPath id="clip112"><path d="M14,1226 L794,1226 L794,1419 L14,1419 L14,1226 Z" /></clipPath>
+<path d="M533.6054688,1270 L533.671875,1283" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip112)" />
+<clipPath id="clip113"><path d="M274,1226 L794,1226 L794,1273 L274,1273 L274,1226 Z" /></clipPath>
+<path d="M276,1228 L276,1270 L791,1270 L791,1228 Z M276,1228" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip113)" />
+<clipPath id="clip114"><path d="M274,1226 L794,1226 L794,1273 L274,1273 L274,1226 Z" /></clipPath>
+<path d="M276,1271 L791,1271 Z M276,1271" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip114)" />
+<text x="287" y="1242" style="font:10px Open Sans"> Guarda programas y recursos organizados en subcarpetas. Estos programas están </text>
+<text x="287" y="1260" style="font:10px Open Sans">disponibles para cualquier usuario del sistema. </text>
+<clipPath id="clip115"><path d="M30,1290 L527,1290 L527,1319 L30,1319 L30,1290 Z" /></clipPath>
+<path d="M32,1292 L32,1316 L524,1316 L524,1292 Z M32,1292" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip115)" />
+<clipPath id="clip116"><path d="M30,1290 L527,1290 L527,1319 L30,1319 L30,1290 Z" /></clipPath>
+<path d="M32,1317 L524,1317 Z M32,1317" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip116)" />
+<text x="43" y="1306" style="font:10px Open Sans">/usr/bin: Incluye la mayor parte de los programas disponibles para los usuarios.</text>
+<clipPath id="clip117"><path d="M40,1318 L527,1318 L527,1369 L40,1369 L40,1318 Z" /></clipPath>
+<path d="M43,1366 L523,1366 Z M43,1366" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip117)" />
+<text x="55" y="1336" style="font:10px Open Sans">/usr/local: es para uso del administrador del sistema cuando instala software </text>
+<text x="55" y="1354" style="font:10px Open Sans">localmente</text>
+<clipPath id="clip118"><path d="M14,1368 L527,1368 L527,1419 L14,1419 L14,1368 Z" /></clipPath>
+<path d="M17,1416 L523,1416 Z M17,1416" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip118)" />
+<text x="29" y="1386" style="font:10px Open Sans">/usr/sbin: contiene comandos y programas no esenciales usados exclusivamente </text>
+<text x="29" y="1404" style="font:10px Open Sans">por el administrador de sistema.</text>
+<clipPath id="clip119"><path d="M174,1419 L825,1419 L825,1560 L174,1560 Z M780,1421 L780,1447 L822,1447 L822,1421 Z M780,1421 Z M780,1421" /></clipPath>
+<path d="M801,1460 L801,1509 C801,1511.2070313 799.2070313,1513 797,1513 L791,1513" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip119)" />
+<clipPath id="clip120"><path d="M173,1418 L826,1418 L826,1561 L173,1561 L173,1418 Z" /></clipPath>
+<path d="M801,1447 L801,1460" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip120)" />
+<clipPath id="clip121"><path d="M777,1418 L826,1418 L826,1451 L777,1451 L777,1418 Z" /></clipPath>
+<path d="M780,1448 L822,1448 Z M780,1448" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip121)" />
+<text x="792" y="1436" style="font:10px Open Sans">var</text>
+<clipPath id="clip122"><path d="M174,1469 L793,1469 L793,1560 L174,1560 Z M311,1470 L311,1512 L791,1512 L791,1470 Z M311,1470 Z M311,1470" /></clipPath>
+<path d="M551,1525 C548.7773438,1547.6679688 545.4453125,1559 541,1559" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip122)" />
+<clipPath id="clip123"><path d="M173,1468 L794,1468 L794,1561 L173,1561 L173,1468 Z" /></clipPath>
+<path d="M551,1512 L551,1525" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip123)" />
+<clipPath id="clip124"><path d="M309,1468 L794,1468 L794,1515 L309,1515 L309,1468 Z" /></clipPath>
+<path d="M311,1470 L311,1512 L791,1512 L791,1470 Z M311,1470" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip124)" />
+<clipPath id="clip125"><path d="M309,1468 L794,1468 L794,1515 L309,1515 L309,1468 Z" /></clipPath>
+<path d="M311,1513 L791,1513 Z M311,1513" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip125)" />
+<text x="322" y="1484" style="font:10px Open Sans">Almacena información del sistema o de los usuarios que cambia a lo largo del </text>
+<text x="322" y="1502" style="font:10px Open Sans">tiempo</text>
+<clipPath id="clip126"><path d="M173,1532 L544,1532 L544,1561 L173,1561 L173,1532 Z" /></clipPath>
+<path d="M175,1534 L175,1558 L541,1558 L541,1534 Z M175,1534" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip126)" />
+<clipPath id="clip127"><path d="M173,1532 L544,1532 L544,1561 L173,1561 L173,1532 Z" /></clipPath>
+<path d="M175,1559 L541,1559 Z M175,1559" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip127)" />
+<text x="186" y="1548" style="font:10px Open Sans">/var/log: Guarda los archivos de registro (logs) del sistema.</text>
+<clipPath id="clip128"><path d="M296,1561 L825,1561 L825,1660 L296,1660 Z M778,1563 L778,1589 L822,1589 L822,1563 Z M778,1563 Z M778,1563" /></clipPath>
+<path d="M800,1602 L800,1654 C800,1656.2070313 798.2070313,1658 796,1658 L789,1658" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip128)" />
+<clipPath id="clip129"><path d="M295,1560 L826,1560 L826,1661 L295,1661 L295,1560 Z" /></clipPath>
+<path d="M800,1589 L800,1602" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip129)" />
+<clipPath id="clip130"><path d="M775,1560 L826,1560 L826,1593 L775,1593 L775,1560 Z" /></clipPath>
+<path d="M778,1590 L822,1590 Z M778,1590" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip130)" />
+<text x="790" y="1578" style="font:10px Open Sans">opt</text>
+<clipPath id="clip131"><path d="M295,1610 L793,1610 L793,1661 L295,1661 L295,1610 Z" /></clipPath>
+<path d="M298,1658 L789,1658 Z M298,1658" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip131)" />
+<text x="310" y="1628" style="font:10px Open Sans">En este directorio (/opt de options, u opciones en castellano) se suelen instalar </text>
+<text x="310" y="1646" style="font:10px Open Sans">complementos o add-ons de los programas.</text>
+<clipPath id="clip132"><path d="M277,1661 L825,1661 L825,1796 L277,1796 Z M774,1663 L774,1689 L822,1689 L822,1663 Z M774,1663 Z M774,1663" /></clipPath>
+<path d="M798,1702 L798,1790 C798,1792.2070313 796.2070313,1794 794,1794 L787,1794" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip132)" />
+<clipPath id="clip133"><path d="M276,1660 L826,1660 L826,1797 L276,1797 L276,1660 Z" /></clipPath>
+<path d="M798,1689 L798,1702" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip133)" />
+<clipPath id="clip134"><path d="M771,1660 L826,1660 L826,1693 L771,1693 L771,1660 Z" /></clipPath>
+<path d="M774,1690 L822,1690 Z M774,1690" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip134)" />
+<text x="786" y="1678" style="font:10px Open Sans">mnt</text>
+<clipPath id="clip135"><path d="M276,1710 L791,1710 L791,1797 L276,1797 L276,1710 Z" /></clipPath>
+<path d="M279,1794 L787,1794 Z M279,1794" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip135)" />
+<text x="291" y="1728" style="font:10px Open Sans">Este directorio contiene sistemas de archivos externos que hayan sido montados.</text>
+<text x="291" y="1746" style="font:10px Open Sans">Las entidades que aparecen dentro de /mnt representan recursos externos a los </text>
+<text x="291" y="1764" style="font:10px Open Sans">que se puede acceder a través de este</text>
+<text x="291" y="1782" style="font:10px Open Sans">directorio.</text>
+</svg>
